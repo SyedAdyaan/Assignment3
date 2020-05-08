@@ -1,0 +1,611 @@
+#intro{
+    text-align: center;
+    color: whitesmoke;
+    background-color: royalblue;
+    height: 40px;
+    font-size: 25px;
+    
+
+    
+}
+#fb{
+    height: 25px;
+    width: 20px;
+    position: absolute;
+    left: 80px;
+    margin: 2px;
+    top: 30px;
+}
+#twt{
+    height: 25px;
+    width: 20px;
+    position: absolute;
+    left: 115px;
+    top: 30px;
+
+}
+#insta{
+    height: 25px;
+    width: 20px;
+    position: absolute;
+    left: 145px;
+    top: 30px;
+}
+#div2{
+    height: 70px;
+    margin-bottom: 0px;
+    min-height: 40px;
+    max-height: 100px;
+    max-width: 100%;
+    min-width: 300px;
+}
+#youtube{
+    height: 25px;
+    width: 28px;
+    position: absolute;
+    left: 175px;
+    top: 30px;
+}
+#whatsapp{
+    height: 30px;
+    width: 23px;
+    position: absolute;
+    left: 212px;
+    top: 28px;
+}
+.button{
+    text-decoration: none;
+    color: olivedrab;
+    
+}
+
+#saylani{
+    height: 90px;
+    width: 175px;
+    margin-bottom: 80px;
+    margin-right: auto;
+    margin-left: 100px;
+    margin-top: -7px;
+    float: left;
+}
+#div1{
+    background-color: whitesmoke;
+    border: thin;
+    width: 100%;
+    display: block;
+    width: 100%;
+    height: 80px;
+    border-style: none;
+    margin-top: 0px;
+    position: fixed;
+    top: 65px;
+    
+}
+#home{
+    height: 40px;
+    width: 80px;
+    margin-left: 500px;
+    border-radius: 30px;
+    background-color: royalblue;
+    color: whitesmoke;
+    float: left;
+    margin-top: 20px;
+}
+.buttons:hover{
+    background-color: royalblue ;
+    color: whitesmoke;
+}
+.buttons{
+    height: 40px;
+    width: 80px;
+    border-radius: 30px;
+    margin-top: 20px;
+    float: right;
+    
+    
+}
+#donation{
+    margin-right: 105px;
+    margin-top: -40px;
+}
+#news{
+    margin-right: 15px;
+    margin-top: -40px;
+}
+#media{
+    margin-right: 295px;
+    margin-top: -38px;
+}
+#about{
+    margin-right: 300px;
+    float: left;
+}
+#sser{
+    height: 40px;
+    width: 120px;
+    border-radius: 30px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 2px;
+    
+}
+#sser:hover{
+    background-color: royalblue ;
+    color: whitesmoke;
+
+}
+#firstimg{
+    width: 100%;
+    height: 500px;
+    margin-top: 50px;
+    max-width: 100%;
+    min-width: 600px;
+    
+}
+.headlines{
+    width: 900px;
+    margin-left: 270px ;
+    height: 15px;
+    margin-top: 30px;
+    text-align: center;
+    background-color: royalblue;
+    max-width: 900px;
+    min-width: 300px;
+    
+}
+#headline{
+    margin-top: 1px;
+    color: white;
+}
+
+
+#head1{
+    display: inline-block;
+    margin-left: 600px;
+    color: royalblue;
+
+    
+}
+#head2{
+    display: inline-block;
+    color: rgb(25, 121, 25);
+}
+.para{
+    text-align: center;
+    font-size: 17px;
+    color: dimgrey;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+#div3{
+    background-color: royalblue;
+    height: 350px;
+    width: 100%;
+    display: inline-block;
+    
+
+}
+
+
+
+#table1{
+    margin-left: 140px;
+    margin-top: 40px;
+    border-spacing: 10px;
+    
+}
+#folkspoon{
+    height: 50px;
+    width: 45px;
+    border-radius: 20px;
+    
+    
+}
+
+#family{
+    height: 50px;
+    width: 45px;
+    border-radius: 20px;
+    border-style: solid;
+
+}
+#stetho{
+    height: 50px;
+    width: 45px;
+    border-radius: 20px;
+    
+}
+#hat{
+    height: 50px;
+    width: 45px;
+    border-radius: 20px;
+    
+}
+.twenfive{
+    font-size: 60px;
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+#daily{
+    display: inline-block;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+}
+#month{
+    display: inline-block;
+    color: yellowgreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 27px;
+}
+#what{
+    display: inline-block;
+    margin-left: 520px;
+    color: royalblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 45px;
+}
+
+#are{
+    display: inline-block;
+    margin-left: 7px;
+    color: rgb(25, 121, 25);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 45px;
+}
+.div4{
+    border: 1px solid white;
+    box-shadow: 5px 10px 8px 5px #888888;
+    height: 200px;
+    width: 350px;
+    margin-left: 150px;
+    background-color: rgba(255, 255, 255, 0.952);
+    display: inline-block;
+    float: left;
+    
+    
+}
+#sadqah{
+    color: royalblue;
+    margin-left: 75px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+}
+#sadimg{
+    height: 80px;
+    width: 80px;
+    margin-left: 120px;
+    border-radius: 30px;
+}
+
+.div5{
+    display: inline-block;
+    border: 1px solid white;
+    box-shadow: 5px 10px 8px 5px #888888;
+    height: 200px;
+    width: 350px;
+    margin-bottom: -78px;
+    margin-left: 50px;
+    float: left;
+    
+}
+#welfimg{
+    height: 65px;
+    width: 80px;
+    margin-left: 130px;
+}
+#welfare{
+    color: royalblue;
+    margin-left: 95px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+
+}
+.div6{
+    
+    display: inline-block;
+    border: 1px solid white;
+    box-shadow: 5px 10px 8px 5px #888888;
+    height: 200px;
+    width: 350px;
+    margin-left: 50px;
+
+
+}
+#stethimg{
+    height: 65px;
+    width: 80px;
+    border-radius: 20px;
+    margin-left: 130px;
+}
+.div7{
+    border: 1px solid white;
+    box-shadow: 5px 10px 8px 5px #888888;
+    height: 200px;
+    width: 350px;
+    margin-left: 150px;
+    margin-top: 40px;
+    float: left;
+}
+#folkimg{
+    height: 65px;
+    width: 110px;
+    margin-left: 120px;
+    margin-top: 15px;
+}
+#dastar{
+    color: royalblue;
+    margin-left: 95px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 70px;
+    font-size: 30px;
+    
+}
+.div8{
+    border: 1px solid white;
+    box-shadow: 5px 10px 8px 5px #888888;
+    height: 200px;
+    width: 350px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+#waterimg{
+    height: 80px;
+    width: 130px;
+    margin-left: 120px;
+    border-radius: 30px;
+}
+#ro{
+    
+    color: royalblue;
+    margin-left: 95px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.div9{
+    margin-bottom: 100px;
+    border: 1px solid white;
+    box-shadow: 5px 10px 8px 5px #888888;
+    height: 200px;
+    width: 350px;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+#eduimg{
+    height: 80px;
+    width: 130px;
+    margin-left: 105px;
+    border-radius: 30px;
+}
+
+#mission{
+    color: royalblue;
+    font-size: 28px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 160px;
+    display: inline-block;
+}
+#event{
+    display: inline-block;
+    color: royalblue;
+    font-size: 28px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 400px;
+}
+#eventpara{
+    font-size: 20px;
+    color: grey;
+}
+
+.div12{
+    margin-top: -90px;
+    width: 280px;
+    text-align: center;
+    margin-left: 990px;
+    overflow: scroll;
+    height: 300px;
+    border: none;
+    display: inline-block;
+}
+
+.div10{
+    height: 70px;
+    width: 330px;
+    margin-left: 150px;
+    margin-top: 5px;
+    border: solid 1px rgb(223, 216, 216);
+    background-color: whitesmoke;
+    float: left;
+}
+#hepa{
+    color: royalblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 50px;
+    text-align: center;
+    display: inline-block;
+}
+#hepaimg{
+    height: 55px;
+    vertical-align: middle;
+    width: 80px;
+    border-radius: 30px;
+    display: inline-block;
+}
+.div11{
+    border: solid 1px rgb(223, 216, 216);
+    background-color: whitesmoke;
+    height: 70px;
+    width: 330px;
+    margin-left: 550px;
+    margin-top: 5px;
+    position: relative;
+    top: 4px;
+}
+#houseimg{
+    height: 55px;
+    vertical-align: middle;
+    width: 80px;
+}
+#house{
+    color: royalblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 25px;
+    text-align: center;
+    display: inline-block;
+}
+.div13{
+    border: solid 1px rgb(223, 216, 216);
+    background-color: whitesmoke;
+    height: 70px;
+    width: 330px;
+    margin-top: -190px;
+    margin-left: 150px;
+    
+}
+#itlearnimg{
+    height: 55px;
+    vertical-align: middle;
+    width: 60px;
+}
+#itlearn{
+    color: royalblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 65px;
+    text-align: center;
+    display: inline-block;
+}
+.div14{
+    border: solid 1px rgb(223, 216, 216);
+    background-color: whitesmoke;
+    height: 70px;
+    width: 330px;
+    margin-left: 550px;
+    margin-top: -70px;
+    
+    
+}
+#tharimg{
+    height: 55px;
+    vertical-align: middle;
+    width: 60px;
+}
+#thar{
+    color: royalblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 45px;
+    text-align: center;
+    display: inline-block;
+}
+#gallery{
+    text-align: center;
+    color: royalblue;
+    margin-top: 250px;
+    margin-bottom: 80px;
+}
+#image1{
+    height: 160px;
+    width: 240px;
+    margin-left: 150px;
+}
+#image2{
+    height: 160px;
+    width: 240px;
+    
+}
+.div15{
+    background-color: black;
+    opacity: 0.8;
+    width: 100%;
+    height: 400px;
+    margin-top: 200px;
+    display: inline-block;
+}
+#info{
+    color: whitesmoke;
+    opacity: 0.8;
+    margin-left: 30px;
+    padding: 100px;
+    line-height: 1.5em;
+}
+#tele{
+    height: 20px;
+    width: 20px;
+    margin-left: -25px;
+}
+#world{
+    height: 20px;
+    width: 20px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+#useful{
+    color: white;
+    margin-top: -320px;
+    margin-left: 650px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+#connect{
+    color: white;
+    margin-left: 1000px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    margin-top: -40px;
+}
+#fb2{
+    position: absolute;
+    left: 1000px;
+    border-radius: 30px;
+    height: 30px;
+    width: 30px;
+}
+#twitt2{
+    position: absolute;
+    left: 1040px;
+    border-radius: 30px;
+    height: 30px;
+    width: 30px;
+}
+#insta2{
+    position: absolute;
+    left: 1080px;
+    border-radius: 10px;
+    height: 30px;
+    width: 30px;
+}
+#you2{
+    position: absolute;
+    left: 1120px;
+    border-radius: 10px;
+    height: 30px;
+    width: 30px;
+}
+.div16{
+    height: 35px;
+    width: 100%;
+    background-color: royalblue;
+    
+    
+}
+#lastpara{
+    color: white;
+    margin-left: 300px;
+    margin-top: 0px;
+}
+@media only screen and (max-height:640px){
+    #firstimg{
+        height:  300px;
+        
+    }
+}
+@media only screen and (max-width:330px){
+    #firstimg{
+        width: 300px;
+        
+    }
+}
